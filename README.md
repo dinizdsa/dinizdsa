@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there! 👋
 
 <!--
 **dinizdsa/dinizdsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm David, a software engineer from Brazil 🇧🇷
+
+
+## Skills
+- 👨‍💻 PHP, TypeScript, JavaScript, React, Node.js, Python
+- ☁️ AWS
+- 💽 MySQL, SQL, PostgreSQL, SQL Server
++ a lot more :D
+
+## Contact
+- [@david-diniz](https://www.linkedin.com/in/david-diniz/) on LinkedIn
