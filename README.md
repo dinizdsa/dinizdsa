@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm David, a software engineer from Brazil 🇧🇷
-
+<br/>I have been working with software development and building applications for over 10 years
 
 ## Skills
 - 👨‍💻 PHP, TypeScript, JavaScript, React, Node.js, Python
@@ -25,3 +25,6 @@ I'm David, a software engineer from Brazil 🇧🇷
 
 ## Contact
 - [@david-diniz](https://www.linkedin.com/in/david-diniz/) on LinkedIn
+
+<hr>
+<h1 align='center'><i>Stay hard! Never give up.</i></h1>
